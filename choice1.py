@@ -1,7 +1,6 @@
 choice_1 = True
 leave = input(
-  "You are singing to your chameleon when you see a strange man climbing through your window. You jump up from your seat in shock. Which weapon do you grab? (enter f for fork or p for pan "
-).lower()
+  "You are singing to your chameleon when you see a strange man climbing through your window. You jump up from your seat in shock. Which weapon do you grab? (enter f for fork or p for pan)").lower()
 while choice_1 == True:
   if leave == "f":
     print()
