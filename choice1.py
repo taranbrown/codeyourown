@@ -7,7 +7,7 @@ while choice_1 == True:
     print(
       "You grab the fork to protect yourself but get distracted and start combing your hair! The fork gets stuck in your hair so you grab the pan instead."
     )
-  leave == "p"
+    leave = "p"
   if leave == "p":
     print()
     print(
@@ -17,4 +17,4 @@ while choice_1 == True:
     break
   else:
     leave = input(
-      "That was not an option. Please enter f for fork or p for pan ").lower() 
+      "That was not an option. Please try again. ").lower() 
