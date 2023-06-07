@@ -1,3 +1,3 @@
 # codeyourown
-Taran, Katherine and Lily 
-Enter the Rapunzel story, make choices, survive.
+Taran, Katherine and Lily's story app, 
+The user enters the Rapunzel story, makes choices, and tries to survive.
